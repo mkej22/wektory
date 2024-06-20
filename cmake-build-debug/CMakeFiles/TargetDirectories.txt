@@ -1,0 +1,3 @@
+C:/Users/krato/CLionProjects/wektory/cmake-build-debug/CMakeFiles/wektory.dir
+C:/Users/krato/CLionProjects/wektory/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/krato/CLionProjects/wektory/cmake-build-debug/CMakeFiles/rebuild_cache.dir
